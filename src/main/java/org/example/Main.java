@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello world! Branch2!");
         System.out.println("Hello world! Branch3!");
         System.out.println("Hello world! Branch4!");
+        System.out.println("Hello world! Branch5!");
     }
 
     private void rebasePractice() {
