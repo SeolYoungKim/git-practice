@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("--no-ff 옵션 테스트 1");
         System.out.println("--no-ff 옵션 테스트 2");
+
+        System.out.println("--no-ff 옵션 없이 머지1");
     }
 
     private void rebasePractice() {
