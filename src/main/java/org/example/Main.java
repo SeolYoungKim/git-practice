@@ -9,6 +9,9 @@ public class Main {
         System.out.println("Hello world! Branch4!");
         System.out.println("Hello world! Branch5!");
         System.out.println("Hello world! Branch6!");
+
+        System.out.println("--no-ff 옵션 테스트 1");
+        System.out.println("--no-ff 옵션 테스트 2");
     }
 
     private void rebasePractice() {
